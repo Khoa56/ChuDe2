@@ -1,0 +1,7 @@
+[
+  {"label": "15 giây", "seconds": 15},
+  {"label": "30 giây", "seconds": 30},
+  {"label": "1 phút", "seconds": 60},
+  {"label": "2 phút", "seconds": 120},
+  {"label": "5 phút", "seconds": 300}
+]

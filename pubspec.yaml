@@ -1,0 +1,21 @@
+name: nhip_thoi_gian
+description: 'Demo đồng hồ đếm ngược với Future và Stream trong Flutter.'
+publish_to: 'none'
+version: 1.1.0+2
+
+environment:
+  sdk: ^3.13.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/presets.json
